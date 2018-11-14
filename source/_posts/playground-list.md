@@ -25,7 +25,7 @@ tags: dev
 
 ## Regex
 * [Regex101](https://regex101.com/) 支持php、js、python、golang，并有详细的解析log
-* [Regulex](https://jex.im/regulex/#!flags=&re=%5E(%3F!.*(jisho%7Cbabeljs)).*%24) 可视化Regex
+* [Regulex](https://jex.im/regulex/) 可视化Regex
 
 
 ---
