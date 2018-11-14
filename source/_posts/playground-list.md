@@ -30,6 +30,6 @@ tags: dev
 
 ---
 
-## AST（语法树）
+## AST（抽象语法树）
 
 * [AST Explorer](https://astexplorer.net/) 支持HTML、JS、CSS、JSON、Markdown、Regex、SQL、Scala、GraphQL等18种语言的AST解析
